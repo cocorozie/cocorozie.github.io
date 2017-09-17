@@ -1,0 +1,46 @@
+@font-face{
+    font-family:'myfont';
+    src: url(/nanumsquare.ttf)    
+    
+}
+
+body{
+    font-family: :'my font'
+    }
+
+
+
+.jumbotron {
+    background-image: url(/img/kid.jpeg);
+    background-size:cover;
+    background-position: center;
+    color:aliceblue;
+}
+
+.jumbotron {
+    background-image: url(/img/kid.jpeg);
+    background-size:cover;
+    background-position: center;
+    color:aliceblue;
+}
+
+.col-md-4 {
+    
+}
+
+.고기 {
+    
+}
+
+.fish {
+    width: 10rem;
+    
+}
+
+.row {
+    
+}
+
+.fish-img {
+    
+}
